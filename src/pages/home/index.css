@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+  font-size: 40px;
+  display: flex;
+}
+
+body {
+  background: url('../../assets/images/menu_go.gif') no-repeat right top;
+}

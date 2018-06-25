@@ -1,0 +1,12 @@
+{
+  "extends": "standard",
+  "plugins": [
+    "html",
+    "standard",
+    "promise"
+  ],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module"
+  }
+}
